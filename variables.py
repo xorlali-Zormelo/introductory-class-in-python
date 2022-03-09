@@ -1,5 +1,3 @@
-# introductory-class-in-python
-# my assignment
 # question 1
 r = 5
 x = 3.14
@@ -15,7 +13,6 @@ priceforfirstcopy = 9.98 + 3
 remainingcopies = 59*(9.98 + 3.75)
 print(priceforfirstcopy + remainingcopies)
 
- 
 # question 3
 setofftime = 6.52
 easypace = 8.15
